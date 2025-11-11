@@ -2,6 +2,9 @@
 
 ---
 
+Aplicação hospedada no Render:
+ https://socf-so-cloud-cei8.onrender.com/
+
 ## ÍNDICE
 
 1. Visão Geral do Projeto
